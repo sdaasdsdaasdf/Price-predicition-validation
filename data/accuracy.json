@@ -1,0 +1,11 @@
+{
+  "total_verified": 0,
+  "correct_direction": 0,
+  "wrong_direction": 0,
+  "hit_tp_early": 0,
+  "hit_sl_early": 0,
+  "in_range": 0,
+  "accuracy_pct": 0,
+  "directional_accuracy_pct": 0,
+  "last_updated": null
+}
